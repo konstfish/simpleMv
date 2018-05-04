@@ -28,13 +28,13 @@ void loop() {
 
 ### Functions
 
-  -turnRight();
-  -turnLeft();
-  -oneEighty();
-  -fwd(int speed, int del);
-  -rev(int speed, int del);
-  -consolePrint(int inp);
-  -shutd();
+* turnRight();
+* turnLeft();
+* oneEighty();
+* fwd(int speed, int del);
+* rev(int speed, int del);
+* consolePrint(int inp);
+* shutd();
 
 ### Todos
 

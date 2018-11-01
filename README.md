@@ -1,6 +1,6 @@
 # simpleMv
 
-[![N|Solid](http://break.co.at/dTxpPi9lDf.thumb.png)](http://break.co.at)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://travis-ci.org/joemccann/dillinger)
 
 simpleMv is a Arduino Zumo Lib made to make controlling the Zumo easier.
 
@@ -35,10 +35,6 @@ void loop() {
 * rev(int speed, int del);
 * consolePrint(int inp);
 * shutd();
-
-### Todos
-
- - Add more functions
 
 License
 ----

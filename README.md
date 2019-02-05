@@ -6,7 +6,7 @@ simpleMv is a Arduino Zumo Lib made to make controlling the Zumo easier.
 
 ### Required Libraries
 
-* [ZumoMotors.h](https://github.com/konstfish/zumo-32u4-arduino-library)
+* [ZumoMotors.h](https://github.com/pololu/zumo-shield/)
 
 ### Example Code
 
